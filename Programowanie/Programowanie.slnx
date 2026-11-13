@@ -20,6 +20,9 @@
   <Folder Name="/C#/05. Zadania/">
     <Project Path="PrinterTaskConsoleApp/PrinterTaskConsoleApp.csproj" Id="c5234dd9-1e20-4e77-ad35-3363995fb625" />
   </Folder>
+  <Folder Name="/C#/06. Polymorphism/">
+    <Project Path="PolymorphismConsoleApp/PolymorphismConsoleApp.csproj" Id="8b39ea15-6a18-4f6e-a0fa-c4195dd5e56f" />
+  </Folder>
   <Folder Name="/C++/" />
   <Folder Name="/C++/Strukturalne/" />
   <Folder Name="/C++/Strukturalne/01. Basics/">
