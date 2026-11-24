@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PolymorphismConsoleApp;
 
-internal class Quadrangle
+internal abstract class Quadrangle /*: Object*/
 {
     protected int sideA, sideB, sideC, sideD;
     protected int height;
@@ -24,4 +24,6 @@ internal class Quadrangle
     {
         return sideA + sideB + sideC + sideD;
     }
+
+    public abstract int GetArea();
 }

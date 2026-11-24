@@ -25,7 +25,7 @@ internal class Trapeze : Quadrangle
         Console.WriteLine();
     }
 
-    public int GetArea()
+    public override int GetArea()
     {
         return (sideB + sideD) * height / 2;
     }

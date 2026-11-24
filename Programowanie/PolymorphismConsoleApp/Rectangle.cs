@@ -22,7 +22,7 @@ internal class Rectangle : Quadrangle
         Console.WriteLine();
     }
 
-    public int GetArea()
+    public override int GetArea()
     {
         return sideA * sideB;
     }
